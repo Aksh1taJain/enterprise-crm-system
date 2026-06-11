@@ -80,20 +80,6 @@ Open your web browser and navigate to `http://localhost:3000` to interact with t
 
 ---
 
-## Pre-seeded Credentials (for Testing)
-
-Both accounts are seeded automatically using `Password123` as their password:
-
-1. **Administrator**:
-   - Email: `admin@leadsphere.com`
-   - Access: View all leads, deals, customers, activities globally, and access the "Manage Users" console to adjust user accounts.
-   
-2. **Sales Representative**:
-   - Email: `rep@leadsphere.com`
-   - Access: View and manage only their assigned leads, deals associated with those leads, log new interactions, and view converted customers belonging to their assigned scope.
-
----
-
 ## Key Features
 
 - **Automated Customer Conversion**: When a Deal stage is updated to `Won`, the lead's status is synced to `Won`, and a Mongoose trigger copies details to create an account in the `customers` database automatically.
