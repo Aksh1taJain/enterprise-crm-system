@@ -11,6 +11,7 @@ LeadSphere CRM is a lightweight, high-performance Customer Relationship Manageme
 - **Architecture**: Monorepo layout with decoupled front/back operations.
 
 ---
+## Screenshots
 
 ## Folder Structure
 
