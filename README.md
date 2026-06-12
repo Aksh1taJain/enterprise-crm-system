@@ -12,7 +12,21 @@ LeadSphere CRM is a lightweight, high-performance Customer Relationship Manageme
 
 ---
 ## Screenshots
+### Dashboard
+![Dashboard](screenshots/crm4.png)
+### Leads Management
+![Leads](screenshots/crm1.png)
+### Deal Pipeline
+![Deals](screenshots/crm2.png)
+### Customer Management
+![Customers](screenshots/crm6.png)
+### Activity Tracking
+![Activities](screenshots/crm7.png)
+### Reports
+![Reports](screenshots/crm3.png)
+![Reports](screenshots/crm5.png)
 
+---
 ## Folder Structure
 
 ```
